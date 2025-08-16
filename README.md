@@ -39,7 +39,7 @@
 
 ### 💻 Other Projects
 - **Card Games on CLI** – Slapjack & custom variant in Java.  
-- **Integrated Assignment Environment** – For evaluating and comparing coding assignments. For further information: [IAE]("https://github.com/Serhatt2/Ce316_Project")
+- **Integrated Assignment Environment** – For evaluating and comparing coding assignments. For further information: [IAE](https://github.com/Serhatt2/Ce316_Project)
 - **Various Apps** – SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
