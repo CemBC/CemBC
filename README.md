@@ -47,9 +47,13 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CemBC&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemBC&layout=compact&theme=radical" height="150"/>
+  <!-- Tüm commitler + private katkılar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CemBC&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" />
+  
+  <!-- Diller (compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemBC&layout=compact&theme=radical" height="150" />
 </p>
+
 
 ---
 
