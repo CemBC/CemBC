@@ -39,7 +39,7 @@
 
 ### 💻 Other Projects
 - **Card Games on CLI** – Slapjack & custom variant in Java.  
-- **Integrated Assignment Environment** – For evaluating and comparing coding assignments.  
+- **Integrated Assignment Environment** – For evaluating and comparing coding assignments. For further information: [IAE]("https://github.com/Serhatt2/Ce316_Project")
 - **Various Apps** – SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
@@ -61,4 +61,4 @@
 
 ---
 
-> _“Keep learning, keep building, keep improving.”_
+> _“If one developer can finish a task in one month, then two developers can finish the same task in two months. - Brook's Law”_
