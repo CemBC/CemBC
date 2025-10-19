@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack (CV’ye Uygun)
+## 🛠 Tech Stack
 
 <p align="left">
   <!-- Languages -->
