@@ -45,6 +45,14 @@ https://cembc.github.io/CemBasarCeylani
 
 ---
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CemBC&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemBC&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cem-başar-ceylani/)  
