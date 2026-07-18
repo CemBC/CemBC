@@ -33,15 +33,15 @@ https://cembc.github.io/CemBasarCeylani
 ## 📂 Featured Projects
 
 ### 🎮 Mobile Games (Unity)
-- **Cow Escape** – 3D platform runner game with obstacle mechanics.  
-- **Fill It Up** – 2D UI puzzle game involving volume logic and precision pouring.  
-- **Cake Slicer** – Physics-based slicing challenge with accuracy scoring.
-- All in Ceylan Organization.
+- **Cow Escape** - 3D platform runner game with obstacle mechanics.  
+- **Fill It Up** - 2D UI puzzle game involving volume logic and precision pouring.  
+- **Cake Slicer** - Physics-based slicing challenge with accuracy scoring.
+- **Tank Rush* - 
 
 ### 💻 Other Projects
-- **Card Games on CLI** – Slapjack & custom variant in Java.  
-- **Integrated Assignment Environment** – For evaluating and comparing coding assignments. For further information: [IAE](https://github.com/Serhatt2/Ce316_Project)
-- **Various Apps** – SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
+- **Card Games on CLI** - Slapjack & custom variant in Java.  
+- **Integrated Assignment Environment** - For evaluating and comparing coding assignments. For further information: [IAE](https://github.com/Serhatt2/Ce316_Project)
+- **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
 
