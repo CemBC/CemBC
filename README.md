@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Student** at Izmir University of Economics (Full Scholarship)  
 🌍 Erasmus Exchange Student at **THWS University, Germany**  
-💻 Passionate about **Mobile App Development**, **Game Development**, and **Software Engineering**  
+💻 Passionate about **Mobile App Development**, **API Development with .NET Framework** ,**Game Development**, and **Software Engineering**  
 
 ---
 https://cembc.github.io/CemBasarCeylani
@@ -39,8 +39,10 @@ https://cembc.github.io/CemBasarCeylani
 - **Fill It Up** - 2D UI puzzle game involving volume logic and precision pouring.  
 - **Cake Slicer** - Physics-based slicing challenge with accuracy scoring.
 - **Another TD Game** - Tower defense game featuring strategic tower placement, enemy waves, and performance-optimized projectile systems.
-
+- **Chick Game** - A unity desktop game project created while learning the basics of the Unity.
+  
 ### 💻 Other Projects
+- **Library Api** - A .NET Web API project built to practice .NET, SQL, and ASP.NET Core by implementing CRUD operations for a library management system.
 - **Card Games on CLI** - Slapjack & custom variant in Java.  
 - **Integrated Assignment Environment** - For evaluating and comparing coding assignments. For further information: [IAE](https://github.com/Serhatt2/Ce316_Project)
 - **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
