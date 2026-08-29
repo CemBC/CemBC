@@ -48,6 +48,13 @@ https://cembc.github.io/CemBasarCeylani
 - **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
+
 
 ## 📫 Connect With Me
 
