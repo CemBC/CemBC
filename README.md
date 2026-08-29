@@ -48,9 +48,41 @@ https://cembc.github.io/CemBasarCeylani
 - **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
-<p align="left">
-  <img src="./profile/top-langs.svg" height="180" />
-</p>
+<div align="center">
+
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    height="180"
+  />
+
+  <br><br>
+
+  <a href="https://learn.microsoft.com/tr-tr/users/cembaarceylani-6960/">
+    <img
+      src="https://microsoft-learn-stats-card.vercel.app/api/card?theme=github_dark"
+      alt="Microsoft Learn Stats"
+      height="190"
+    />
+  </a>
+
+  <img
+    src="https://codingame-stats-card-ten.vercel.app/api/card?theme=github_dark&title=CodinGame"
+    alt="CodinGame Stats"
+    height="190"
+  />
+
+  <br><br>
+
+  <a href="https://leetcode.com/CemBC/">
+    <img
+      src="https://leetcard.jacoblin.cool/CemBC?theme=dark&font=Inter&ext=heatmap"
+      alt="LeetCode Stats"
+      height="190"
+    />
+  </a>
+
+</div>
 
 
 ## 📫 Connect With Me
