@@ -48,10 +48,7 @@ https://cembc.github.io/CemBasarCeylani
 - **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
 
 ---
-## 📊 GitHub Stats
-
 <p align="left">
-  <img src="./profile/stats.svg" height="180" />
   <img src="./profile/top-langs.svg" height="180" />
 </p>
 
@@ -64,4 +61,4 @@ https://cembc.github.io/CemBasarCeylani
 
 ---
 
-> _“If one developer can finish a task in one month, then two developers can finish the same task in two months. - Brook's Law”_
+> _“If one developer can finish a task in one month, then two developers can finish the same task in two months. - Emirhan Tidin”_
