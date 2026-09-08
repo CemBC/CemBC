@@ -1,53 +1,93 @@
 # 👋 Hi, I'm Cem Başar Ceylani  
 
-🎓 **Computer Engineering Student** at Izmir University of Economics (Full Scholarship)  
+🎓 **Computer Engineering Graduate** from Izmir University of Economics  
 🌍 Erasmus Exchange Student at **THWS University, Germany**  
-💻 Passionate about **Mobile App Development**, **API Development with .NET Framework** ,**Game Development**, and **Software Engineering**  
+💻 Interested in **Backend Development**, **Full-Stack Development**, **Cloud Deployment**, **Mobile Development**, and **Game Development**
+
+🌐 Portfolio:  
+https://cembc.github.io/CemBasarCeylani
 
 ---
-https://cembc.github.io/CemBasarCeylani
+
 ## 🛠 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  
-  <!-- Mobile & Frameworks -->
+
+  <!-- Web -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Cloud / DevOps -->
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+  <!-- Mobile & Game Development -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  
-  <!-- Libraries & Domains -->
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
+  <!-- Tools / Libraries -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎮 Mobile Games (Unity)
-- **Cow Escape** - 3D platform runner game with obstacle mechanics.  
-- **Fill It Up** - 2D UI puzzle game involving volume logic and precision pouring.  
-- **Cake Slicer** - Physics-based slicing challenge with accuracy scoring.
-- **Another TD Game** - Tower defense game featuring strategic tower placement, enemy waves, and performance-optimized projectile systems.
-- **Chick Game** - A unity desktop game project created while learning the basics of the Unity.
-  
-### 💻 Other Projects
-- **Library Api** - A .NET Web API project built to practice .NET, SQL, and ASP.NET Core by implementing CRUD operations for a library management system.
-- **Card Games on CLI** - Slapjack & custom variant in Java.  
-- **Integrated Assignment Environment** - For evaluating and comparing coding assignments. For further information: [IAE](https://github.com/Serhatt2/Ce316_Project)
-- **Various Apps** - SwiftUI and Flutter applications, game assistance tools, and more on [GitHub](https://github.com/CemBC).
+- **Library Management API** - ASP.NET Core REST API for a library management system featuring JWT authentication, role-based authorization, Entity Framework Core, SQL Server, FluentValidation, AutoMapper, Azure Blob Storage, testing, Docker, CI/CD with GitHub Actions, and Azure deployment. [Repository](https://github.com/CemBC/AspNetCore-LibraryApi-V1)
+
+- **Library Management Frontend** - React and TypeScript frontend for the Library Management System featuring member/admin interfaces, authentication, role-based routing, book browsing, loan management, search, filtering, pagination, image uploads, and API health monitoring. [Repository](https://github.com/CemBC/LibraryManagement-website) | [Live Website](https://cembc.github.io/LibraryManagement-website/)
+
+- **Reservation API** - Node.js and Express REST API using PostgreSQL and Prisma, featuring JWT authentication, role-based authorization, reservation conflict handling, validation, global error handling, Swagger documentation, testing, and Azure deployment. [Repository](https://github.com/CemBC/ReservationApi)
+---
+
+### 🎮 Mobile Games — Unity
+
+- **Cow Escape** — 3D platform runner game with obstacle mechanics.
+- **Fill It Up** — 2D UI puzzle game involving volume logic and precision pouring.
+- **Cake Slicer** — Physics-based slicing challenge with accuracy scoring.
+- **Another TD Game** — Tower defense game featuring strategic tower placement, enemy waves, and optimized projectile systems.
+- **Chick Game** — Desktop Unity project developed while learning the fundamentals of Unity.
 
 ---
+
+### 💻 Other Projects
+
+- **Card Games on CLI** — Slapjack and a custom variant developed in Java.
+- **Integrated Assignment Environment** — Environment for evaluating and comparing coding assignments. [IAE Repository](https://github.com/Serhatt2/Ce316_Project)
+- **SwiftUI & Flutter Applications** — Various mobile application projects.
+- **Computer Vision Projects** — Projects using OpenCV and related technologies.
+
+More projects are available on my [GitHub profile](https://github.com/CemBC).
+
+---
+
 <div align="center">
 
   <img
@@ -84,6 +124,7 @@ https://cembc.github.io/CemBasarCeylani
 
 </div>
 
+---
 
 ## 📫 Connect With Me
 
@@ -93,4 +134,4 @@ https://cembc.github.io/CemBasarCeylani
 
 ---
 
-> _“If one developer can finish a task in one month, then two developers can finish the same task in two months. - Emirhan Tidin”_
+> _“If one developer can finish a task in one month, then two developers can finish the same task in two months.” — Emirhan Tidin_
