@@ -133,5 +133,3 @@ More projects are available on my [GitHub profile](https://github.com/CemBC).
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cembasar07@gmail.com)
 
 ---
-
-> _“If one developer can finish a task in one month, then two developers can finish the same task in two months.” — Emirhan Tidin_
